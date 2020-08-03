@@ -1,0 +1,7 @@
+D:\לימודים\Varonis\Varonis-Test\Varonic\bin\Debug\Varonic.dll
+D:\לימודים\Varonis\Varonis-Test\Varonic\bin\Debug\Varonic.pdb
+D:\לימודים\Varonis\Varonis-Test\Varonic\obj\Debug\Varonic.dll
+D:\לימודים\Varonis\Varonis-Test\Varonic\obj\Debug\Varonic.pdb
+D:\לימודים\Varonis\Varonis-Test\Varonic\bin\Debug\Newtonsoft.Json.dll
+D:\לימודים\Varonis\Varonis-Test\Varonic\bin\Debug\Newtonsoft.Json.xml
+D:\לימודים\Varonis\Varonis-Test\Varonic\obj\Debug\Varonic.csprojResolveAssemblyReference.cache
